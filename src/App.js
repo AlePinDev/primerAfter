@@ -3,7 +3,7 @@
 function App() {
   return (
     <div className="App">
-     Primer after
+     Primer after class
     </div>
   );
 }
